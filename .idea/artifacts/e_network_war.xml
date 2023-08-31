@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="e-network:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>e-network</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="e-network-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="e-network:war exploded" />
+    </root>
+  </artifact>
+</component>

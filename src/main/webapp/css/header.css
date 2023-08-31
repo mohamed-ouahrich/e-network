@@ -1,0 +1,14 @@
+.navbar{
+    background-color:#ee7c66 !important ;
+    color: white !important;
+    padding-right: 9%;
+    padding-left: 9%;
+    z-index: 1000;
+}
+
+.nav-item > a {
+    color: white !important;
+}
+.dropdown-menu.show{
+    z-index: 99999 !important;
+}
